@@ -143,7 +143,7 @@ body {
 .section-heading {
   margin-bottom: 2rem;
 }
-.mySection {
+.Works ,.Experience, .Education ,.Skills  {
   padding: 2rem 0;
 }
 .projects .project-item + .project-item {
