@@ -10,7 +10,7 @@ and deal with every situation with a smile . 😉
 Currently I'm working on a web  based project that involves #python #FASTApi #OCR and Web scraping .
 
 
-
+Hey! I am also good at reading and exploring code(any language).
 
 some of the live projects : 
 
