@@ -1,4 +1,4 @@
-# [SineshX.com](https://sineshx.com/)
+# [Sinesh.in](https://Sinesh.in/)
 # [SineshX.github.io](https://sineshx.github.io/)
 ## A place to showcase my works :) ##
 
@@ -14,11 +14,11 @@ Hey! I am also good at reading and exploring code(any language).
 
 some of the live projects : 
 
-# [SineshX.com](https://sineshx.com/)
+# [Sinesh.in](https://Sinesh.in/)
 # [Find Dev](https://findev-me.herokuapp.com/)
 # [Prabhawati VidyaPeeth](https://prabhawatividyapeeth.in/)
-# [Learn2Code](https://sineshx.com/Learn2code)
-# [Simple Tailwind Website](https://sineshx.com/Simple-Tailwind-Website/)
+# [Learn2Code](https://Sinesh.in/Learn2code)
+# [Simple Tailwind Website](https://Sinesh.in/Simple-Tailwind-Website/)
 # []()
 # []()
 
